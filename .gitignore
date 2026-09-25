@@ -1,0 +1,11 @@
+.env
+
+traget/
+*.jar
+
+.idea/
+*.iml
+
+.vscode/
+
+.ds_store
