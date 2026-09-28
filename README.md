@@ -291,7 +291,7 @@ git clone <REPOSITORY_URL>
 Navigate to the project:
 
 ```bash
-cd microservice_project
+cd online-shopping-microservices
 ```
 
 Build and start the environment:
@@ -416,7 +416,7 @@ Screenshots demonstrating the running application will be added here.
 ## 📁 Project Structure
 
 ```text
-microservice_project/
+online-shopping-microservices/
 │
 ├── eureka-server/
 │
